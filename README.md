@@ -19,7 +19,7 @@ use to multiply two matrix
 print
 
 ## PROGRAM: 
-```
+```python
 import numpy as np
 n=int(input())
 l1=[]
@@ -32,7 +32,8 @@ a=np.array(l1)
 b=np.array(l2)
 product=a*b
 print("Product of two arrays is:",product)
-'''
+
+```
 
 ## OUTPUT:
 ![output](./output1.png)
